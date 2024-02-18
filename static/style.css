@@ -1,0 +1,12 @@
+.entry {
+    width: 100%;
+    overflow: hidden;
+}
+
+.entry div {
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+    padding: 20px;
+    border: 1px solid #000;
+}

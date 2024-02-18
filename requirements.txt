@@ -1,1 +1,4 @@
 flask==3.0.2
+paho-mqtt==1.6.1
+flask-mqtt==1.1.1
+flask-socketio
